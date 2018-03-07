@@ -1,0 +1,10 @@
+{
+	"default": {
+		"scheme": "https"
+	},
+	"ORGANIZATION": {
+		"ENVIRONMENT": {
+			"domain": "eslomibe-eval-test.apigee.net/mock"
+		}
+	}
+}
